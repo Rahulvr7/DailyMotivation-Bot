@@ -1,4 +1,4 @@
-# DailyMotivation-Bot-JS
+# DailyMotivation-Bot
 
 This is a custom Discord Bot that provides Motivational messages to the users of the Servers.
 The Bot will automatically detect messages with negative sentiments and reply to the users with Motivational quotes.
