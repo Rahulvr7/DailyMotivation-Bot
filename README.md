@@ -9,7 +9,7 @@ DailyMotivation-Bot Functionalities/Commands:
 2. $new - the user can manually add motivational messages to the database
 3. $del - the user can delete the motivational message from the database
 4. $list - the user can check the motivational messages in the database
-5. $responding - the user can turn the Bot On/Off
+5. $responding - the user can turn the Bot ON/OFF
 
 OUTPUT:
 ![image](https://user-images.githubusercontent.com/99265509/156898548-84ca90e8-a94b-4143-af15-4dd3b946f6bb.png)
